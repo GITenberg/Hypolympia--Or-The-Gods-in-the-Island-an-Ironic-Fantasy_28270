@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/959
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28270#Hypolympia--Or-The-Gods-in-the-Island-an-Ironic-Fantasy
 gutenberg_issued: '2009-03-07'
 gutenberg_type: Text
 identifiers:
